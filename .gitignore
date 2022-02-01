@@ -1,0 +1,25 @@
+###> Kamaldeep0625/github-template ###
+
+##### Folders #####
+build/
+dist/
+node_modules/
+vendor/
+var/
+.tmp/
+
+# IDE's
+.vscode/
+.idea/
+
+
+##### Files #####
+ignore.*
+*.ignore.*
+
+# Environment variables and secret keys
+.env
+.env.test
+*.pem
+
+###< Kamaldeep0625/github-template ###
